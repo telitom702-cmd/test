@@ -4,19 +4,19 @@
 module.exports = {
 
   // ---- Telegram Bot Token ----
-  BOT_TOKEN: 'YOUR_BOT_TOKEN_HERE',
+  BOT_TOKEN: '8600984479:AAFtkrYCx_WNnp8zK8I34LoifqAD-t7rfOE',
 
   // ---- Admin Telegram IDs (হার্ডকোডেড, শুধুমাত্র এই ID গুলো এডমিন প্যানেল দেখতে পারবে) ----
-  ADMIN_IDS: [123456789, 987654321],
+  ADMIN_IDS: [8248792819],
 
   // ---- MongoDB Connection URI ----
-  MONGODB_URI: 'mongodb+srv://username:password@cluster0.xxxxx.mongodb.net/TeliTaskPro?retryWrites=true&w=majority',
+  MONGODB_URI: 'mongodb+srv://mongodbpy_db_user:pPgtRKyHsm8GvJF2@cluster0.u2ft5ps.mongodb.net/?appName=Cluster0',
 
   // ---- Task Group ID (স্ক্রিনশট ফরওয়ার্ড হবে এই গ্রুপে) ----
-  TASK_GROUP_ID: -1001234567890,
+  TASK_GROUP_ID: -1003932993971,
 
   // ---- Summary Group ID (সামারি মেসেজ এই গ্রুপে থাকবে) ----
-  SUMMARY_GROUP_ID: -1001234567890,
+  SUMMARY_GROUP_ID: -1003194263389,
 
   // ---- ডিফল্ট টাস্ক রিওয়ার্ড (USD) ----
   DEFAULT_TASK_REWARD: 5,
