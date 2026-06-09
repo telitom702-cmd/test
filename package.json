@@ -1,1 +1,14 @@
-
+{
+  "name": "telitask-pro",
+  "version": "1.0.0",
+  "description": "TeliTask Pro - Telegram Task Earning Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "mongoose": "^8.9.5",
+    "axios": "^1.7.9"
+  }
+}
